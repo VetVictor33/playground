@@ -1,0 +1,7 @@
+body {
+    background-color: yellow;
+}
+
+#favDialog::backdrop {
+    background-color: rgba(63, 63, 83, 0.4);
+}
